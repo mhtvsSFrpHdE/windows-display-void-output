@@ -7,9 +7,9 @@ You might get a laptop device whatever what it is.
 And you found that when you close the monitor(or Win+L lock screen),  
 the entire system almost sleeps immediately...  
 
-And your torrent client does not work, too.
-Desktop applications not work but Windows Store Apps is fine,
-but useless for you.
+And your torrent client does not work, too.  
+Desktop applications not work but Windows Store Apps is fine,  
+but useless for you.  
 
 You still want a close monitor to reduce battery usage.  
 And you want the thing close monitor and keep working for your long time task.  
