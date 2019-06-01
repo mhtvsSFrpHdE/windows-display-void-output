@@ -25,6 +25,7 @@ or more time until it actually switches back.
 
 **Security warns:**  
 **NOTE: Screen lock need to be disabled so anyone can access your device when who can touch it!**  
+**Run a virtual machine may be help but most laptop doesn't have the performace for a virtual machine.**  
 
 **Special thanks**  
 Grammarly for README.md  
