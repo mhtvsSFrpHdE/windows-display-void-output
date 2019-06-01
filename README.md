@@ -1,17 +1,30 @@
 # windows-display-void-output
-**Security warn:**
-**NOTE: Screen lock need to be disabled so anyone can access your device when who can touch it!**
+**Contact**  
+See https://github.com/mhtvsSFrpHdE/contact-me  
 
-Close monitor but keep Windows running on "Instant Go" laptop devices!
+**What is this**  
+You might get a laptop device whatever what it is.  
+And you found that when you close the monitor(or Win+L lock screen),  
+the entire system almost sleeps immediately...  
 
-You might got a laptop device whatever what it is. And you found that when you close the monitor(or Win+L lock screen), entire system almost sleep immediatly...
+And your torrent client does not work, too.
+Desktop applications not work but Windows Store Apps is fine,
+but useless for you.
 
-And your torrent client not work, too. Desktop applications not work but Windows Store Apps is fine, but useless for you.
+You still want a close monitor to reduce battery usage.  
+And you want the thing close monitor and keep working for your long time task.  
 
-You still want close monitor to reduce battery usage. And you want the thing close monitor and keep working for your long time task.
+This script use void display to keep Windows running，  
+but output nothing video signal so hardware will think you still using it.  
+Also, change some powerplan to prevent auto sleep.  
 
-This script use void display to keep Windows running but output nothing video signal so hardware will think you still using it.
+**How to use**  
+Run the script, the screen should go black.  
+When you want to re-open the monitor, press Win+P twice,  
+or more time until it actually switches back.  
 
-And change some powerplan to prevent auto sleep, this is OK.
+**Security warns:**  
+**NOTE: Screen lock need to be disabled so anyone can access your device when who can touch it!**  
 
-When you wan't re-open the monitor, press Win+P twice, or more time until it actually switch back.
+**Special thanks**  
+Grammarly for README.md  
