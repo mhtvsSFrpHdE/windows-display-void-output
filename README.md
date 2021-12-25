@@ -1,7 +1,6 @@
-# windows-display-void-output
-**Contact**  
-See https://github.com/mhtvsSFrpHdE/contact-me  
+![](https://raw.githubusercontent.com/mhtvsSFrpHdE/contact-me/master/AboutIssue.svg)
 
+# windows-display-void-output
 **What is this**  
 You might get a laptop device whatever what it is.  
 And you found that when you close the monitor(or Win+L lock screen),  
